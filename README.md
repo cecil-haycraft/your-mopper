@@ -1,2 +1,2 @@
 # your-mopper
-Minewsweeper with eric
+Minewsweeper with eric and curits
